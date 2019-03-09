@@ -1,5 +1,7 @@
 #Project exclusions
 env/
+my_env
+venv
 .vscode
 .idea
 .sonarlint
