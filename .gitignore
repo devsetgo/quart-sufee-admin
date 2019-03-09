@@ -4,3 +4,4 @@ env/
 .idea
 .sonarlint
 __pycache__
+.pytest_cache
